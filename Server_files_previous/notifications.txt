@@ -1,0 +1,61 @@
+
+<div class="p-3 mb-2 alert-success" id="pulse_found" role="alert" style="text-align:center;">
+
+<strong>Pulse Found</strong>.
+
+</div>
+
+
+
+
+<div class="p-3 mb-2 alert-danger" id="pulse_not_found" role="alert"  style="text-align:center;">
+
+<strong>Pulse NOT Found</strong>.
+
+</div>
+
+
+
+<div class="p-3 mb-2 alert-danger" id="temp_not_found" role="alert" style="text-align:center;">
+
+<strong>Temperature is NOT Available</strong>.
+
+</div>
+
+
+<div class="p-3 mb-2 alert-success" id="temp_found" role="alert" style="text-align:center;">
+
+<strong>Temperature is Available</strong>.
+
+</div>
+
+
+
+<div class="p-3 mb-2 alert-danger" id="system_off" role="alert" style="text-align:center;">
+
+<strong>System Turned OFF</strong>.
+
+</div>
+
+
+<div class="p-3 mb-2 alert-success" id="system_on" role="alert" style="text-align:center;">
+
+<strong>System Turned ON</strong>.
+
+</div>
+
+
+
+
+<div class="p-3 mb-2 alert-danger" id="oxygen_off" role="alert" style="text-align:center;">
+
+<strong>Oxygen Turned OFF</strong>.
+
+</div>
+
+
+<div class="p-3 mb-2 alert-success" id="oxygen_on" role="alert" style="text-align:center;">
+
+<strong>Oxygen Turned ON</strong>.
+
+</div>
